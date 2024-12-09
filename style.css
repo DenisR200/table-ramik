@@ -1,9 +1,44 @@
-table, tr, td{
+table, td{
     border: 1px solid black;
     border-collapse: collapse;
 }
 
 .vanish{
     empty-cells: hide;
+    empty-cells: hide;
+    width: 30px;
+    height: 20px;
+    border: 1px white;
 }
-  
+
+.jedna{
+    background-color: rgb(190, 247, 105);
+}
+
+.dva{
+    background-color: rgb(252, 120, 81);
+}
+
+.tri{
+    background-color: rgb(131, 168, 238);
+}
+
+.ctyri{
+    background-color: rgb(139, 240, 240);
+}
+
+.pet{
+    background-color: rgb(218, 171, 240);
+}
+
+.sest{
+    background-color: rgb(255, 174, 0);
+}
+
+.sedm{
+    background-color: yellow;
+}
+
+.osm{
+    background-color: rgb(0, 174, 255);
+}
