@@ -3,6 +3,10 @@ table, td{
     border-collapse: collapse;
 }
 
+table {
+    border: none;
+}
+  
 .vanish{
     empty-cells: hide;
     empty-cells: hide;
