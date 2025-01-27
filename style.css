@@ -1,110 +1,36 @@
-table, td{
-    border: 1px solid black;
-    border-collapse: collapse;
+#nadpis1{
+    padding: 10px;
+    color: red;
+    font-size: 50px;
 }
 
-table {
-    border: none;
-}
-  
-.vanish{
-    empty-cells: hide;
-    empty-cells: hide;
-    width: 30px;
-    height: 20px;
-    border: 1px white;
-    font-size: 7px;
+#text1{
+    font-size: 35px;
+    color: red;
 }
 
-.jedna{
-    background-color: rgb(190, 247, 105);
+#nadpis2{
+    padding: 10px;
+    color: blue;
+    font-size: 50px;
 }
 
-.dva{
-    background-color: coral;
+#text2{
+    font-size: 35px;
+    color: blue;
 }
 
-.tri{
-    background-color: rgb(131, 168, 238);
+#nadpis3{
+    padding: 10px;
+    color: aqua;
+    font-size: 50px;
 }
 
-.ctyri{
-    background-color: rgb(139, 240, 240);
+#text3{
+    font-size: 35px;
+    color: aqua;
 }
 
-.pet{
-    background-color: rgb(218, 171, 240);
-}
-
-.sest{
-    background-color: rgb(255, 174, 0);
-}
-
-.sedm{
-    background-color: yellow;
-}
-
-.osm{
-    background-color: rgb(0, 174, 255);
-}
-
-.pismojedna{
-    font-size: 7px;
-    background-color: coral;
-}
-
-.pismodva{
-    font-size: 7px;
-    background-color: rgb(255, 174, 0);
-}
-
-.pismotri{
-    font-size: 7px;
-    background-color: rgb(218, 171, 240);
-}
-
-.pismoctyri{
-    font-size: 7px;
-    background-color: rgb(131, 168, 238);
-}
-
-.pismopet{
-    font-size: 7px;
-    background-color: rgb(139, 240, 240);
-}
-
-.pismosest{
-    font-size: 7px;
-    background-color: rgb(190, 247, 105);
-}
-
-.pismosedm{
-    font-size: 7px;
-    background-color: rgb(0, 174, 255);
-}
-
-.pismoosm{
-    font-size: 7px;
-    background-color: yellow;
-}
-
-.periodickasoustavaprvku{
-    empty-cells: hide;
-    empty-cells: hide;
-    width: 30px;
-    height: 20px;
-    border: 1px white;
-    font-size: 7px;
-}
-
-.mezera{
-    empty-cells: hide;
-    empty-cells: hide;
-    height: 5px;
-    border: 1px white;
-}
-
-.bila{
-    border: 1px solid black;
-    border-collapse: collapse;
+nav ul {
+    display: flex;
 }
